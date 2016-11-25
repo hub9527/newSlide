@@ -1,0 +1,24 @@
+
+<com.example.leftdelet.MySwipeView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+>
+
+    <TextView 
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="helllo worldjfdkfkdklkfdlkfdlkfdlkfdlkfdl;fldlfk
+        dfkdlfkdlf"
+        android:background="#080" />
+    <TextView 
+        android:id="@+id/dele"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="delete"
+        android:background="#ff0000"
+        android:clickable="true" />
+
+</com.example.leftdelet.MySwipeView>
